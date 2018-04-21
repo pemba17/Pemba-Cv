@@ -98,25 +98,16 @@ footer{
 	padding: 10px;
 	
 }
-.foot1{
-	color: white;
-	font-size: 15px;
-	font-family: arial;
-}
-.foot2 {
+
+.foot1 {
 	
    color: white;
 	font-size: 15px;
 	text-align: center;
 	font-family: arial;
 }
-.foot3 {
-color: white;
-	font-size: 15px;
-	font-family: arial;
 
-}
-.foot4{
+.foot2{
 	text-align: center;
 	font-size: 10px;
 	background-color:black;
@@ -134,7 +125,7 @@ footer a:hover{
 
 .sec2/*section for contact page*/
 {
-background-color: #424A4F;
+background-color:#5FCF80;
 padding: 2px;
 height: 100%;
 padding-bottom: 5%;
