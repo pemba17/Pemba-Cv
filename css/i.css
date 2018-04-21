@@ -4,7 +4,7 @@ body{
 }
 nav{
 	background-color:#212121;
-	height: 50px;
+	height: 100%;
 
 
 }
@@ -183,14 +183,14 @@ h5{
 
 
 }
-.about-image{
+.b{
 	
 	width: 30%;
 	padding-right: 5%;
 	padding-left: 2%;
 
 }
-.my-profile{
+.c{
 	
 width: 30%;
 font-family: 'Titillium Web', sans-serif;
