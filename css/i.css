@@ -86,8 +86,8 @@ a:hover{
 h4{
 	font-size: 15px;
 	text-transform: uppercase;
-	font-family: arial;
-	color: red;
+	font-family: 'Great Vibes', cursive;
+
 
 }
 
@@ -267,7 +267,7 @@ background-color:#5FCF80;
 	font-family: 'Titillium Web', sans-serif;
 	text-transform: uppercase;
 	color: black;
-	margin-left: 35%;
+	margin-left: 10%;
 }
 .personal h2{
 	font-size: 30px;
@@ -275,7 +275,7 @@ background-color:#5FCF80;
 	font-family: 'Titillium Web', sans-serif;
 	text-transform: uppercase;
 	color: black;
-	margin-left: 35%;
+	margin-left: 10%;
 }
 	
 .skills h1{
@@ -284,7 +284,7 @@ background-color:#5FCF80;
 	font-family: 'Titillium Web', sans-serif;
 	text-transform: uppercase;
 	color: black;
-	margin-left: 35%;
+	margin-left: 10%;
 }
 .skills h2{
 	font-size: 30px;
@@ -292,7 +292,7 @@ background-color:#5FCF80;
 	font-family: 'Titillium Web', sans-serif;
 	text-transform: uppercase;
 	color: black;
-	margin-left: 35%;
+	margin-left: 10%;
 }
 .sec5{
 	display: flex;
@@ -309,20 +309,20 @@ padding-top: 5%;
 	font-size: 20px;
 	font-family: 'Titillium Web', sans-serif;
 	text-align: justify;
-	margin-left: 35%;
+	margin-left: 10%;
 }
 .skills p{
 	width: 90%;
 	font-size: 20px;
 	font-family: 'Titillium Web', sans-serif;
 	text-align: justify;
-	margin-left: 35%;
+	margin-left: 10%;
 }
 
 .personal img{
 	height: 30%;
 	width: 40%;
-	margin-left: 35%;
+	margin-left: 10%;
 }
 @media screen and (max-width: 588px) {
 	body{
@@ -614,4 +614,17 @@ text-align: center;
 	height: 40%;
 	width: 60%;
 	margin-left: 20%;
+}
+.design p{
+	text-align: justify;
+}
+.exp p{
+	text-align: justify;
+}
+.web-intro p{
+	text-align: justify;
+}
+
+.cover img{
+	margin-left: 30%;
 }
